@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+*/.env
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Compiled/optimized files
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.eggs/
+*.egg-info/
+dist/
+build/
+sdist/
+
+# Install files
+*.whl
+*.egg
+
+# Log and temporary files
+*.log
+*.tmp
+
+# OS or Editor specific files
+.DS_Store
+*.swp
+._*
+*.orig
+
+# My custom .env
+.env
