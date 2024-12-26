@@ -1,3 +1,4 @@
+# mindbotai/mindbotai.py
 import google.generativeai as mindai
 import os
 from dotenv import load_dotenv
